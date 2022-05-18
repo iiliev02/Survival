@@ -1,0 +1,16 @@
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.exe
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.deps.json
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.runtimeconfig.json
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.runtimeconfig.dev.json
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.dll
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\ref\Survival.dll
+C:\Users\iilie\source\repos\Survival\Survival\bin\Debug\net5.0\Survival.pdb
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.csproj.AssemblyReference.cache
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.AssemblyInfoInputs.cache
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.AssemblyInfo.cs
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.csproj.CoreCompileInputs.cache
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.dll
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\ref\Survival.dll
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.pdb
+C:\Users\iilie\source\repos\Survival\Survival\obj\Debug\net5.0\Survival.genruntimeconfig.cache
